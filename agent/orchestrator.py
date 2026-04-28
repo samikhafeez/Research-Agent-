@@ -17,7 +17,7 @@ The orchestrator uses all lower-level components:
 Usage:
     from agent.orchestrator import ResearchOrchestrator
     orch = ResearchOrchestrator()
-    result = orch.research(
+    result = orch.research(=
         question="How does CRISPR work and what are its current limitations?",
         session_id="abc123",
         level="detailed",

@@ -1,0 +1,112 @@
+{
+  "question_id": "11a9989f-a4c1-4587-94c8-bd5a19553368",
+  "question": "What is CRISP?\n",
+  "total_time_ms": 78660.88054200009,
+  "timestamp": "2026-04-28T23:07:56.798621",
+  "steps": [
+    {
+      "step_type": "plan",
+      "description": "Decomposed into 4 sub-queries",
+      "duration_ms": 5544.309832999716,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-28T23:06:43.682201"
+    },
+    {
+      "step_type": "search",
+      "description": "Searched: 'What does CRISP stand for in data science?' \u2192 6 results",
+      "duration_ms": 1445.701917000406,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-28T23:06:45.128914"
+    },
+    {
+      "step_type": "search",
+      "description": "Searched: 'What is the CRISP-DM methodology?' \u2192 6 results",
+      "duration_ms": 2767.588415999853,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-28T23:06:47.897354"
+    },
+    {
+      "step_type": "search",
+      "description": "Searched: 'What are other meanings of CRISP in different fields?' \u2192 6 results",
+      "duration_ms": 1928.3752499995899,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-28T23:06:49.826678"
+    },
+    {
+      "step_type": "search",
+      "description": "Searched: 'What are the benefits of using the CRISP framework?' \u2192 6 results",
+      "duration_ms": 2250.6856670006528,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-28T23:06:52.077874"
+    },
+    {
+      "step_type": "scrape",
+      "description": "Scraped: https://www.sv-europe.com/crisp-dm-methodology/ \u2192 3510 words",
+      "duration_ms": 3587.690249998559,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-28T23:06:57.719168"
+    },
+    {
+      "step_type": "scrape",
+      "description": "Scraped: https://www.datascience-pm.com/crisp-dm-2/ \u2192 2739 words",
+      "duration_ms": 5441.044332999809,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-28T23:06:57.719586"
+    },
+    {
+      "step_type": "scrape",
+      "description": "Scraped: https://www.udacity.com/blog/2025/03/crisp-dm-explained-a-proven-data-mining-methodology.html \u2192 2417 words",
+      "duration_ms": 5609.935291000511,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-28T23:06:57.719746"
+    },
+    {
+      "step_type": "scrape",
+      "description": "Scraped: https://www.mygreatlearning.com/blog/why-using-crisp-dm-will-make-you-a-better-data-scientist/ \u2192 2092 words",
+      "duration_ms": 5130.654500000674,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-28T23:06:57.719883"
+    },
+    {
+      "step_type": "scrape",
+      "description": "Scraped: https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining \u2192 1078 words",
+      "duration_ms": 3560.630707999735,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-28T23:06:57.720019"
+    },
+    {
+      "step_type": "scrape",
+      "description": "Scraped: https://www.vocabulary.com/dictionary/crisp \u2192 305 words",
+      "duration_ms": 3658.476458998848,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-28T23:06:57.720141"
+    },
+    {
+      "step_type": "summarise",
+      "description": "Summarised 6 sources at 'standard' level",
+      "duration_ms": 48932.66304200006,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-28T23:07:46.652917"
+    },
+    {
+      "step_type": "synthesise",
+      "description": "Synthesised answer  type=full_rag  confidence=0.73",
+      "duration_ms": 10137.832125001296,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-28T23:07:56.791604"
+    }
+  ]
+}
