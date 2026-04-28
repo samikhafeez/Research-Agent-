@@ -1,0 +1,112 @@
+{
+  "question_id": "d23b117f-a1f9-4c41-aa2b-bf75ce0195b6",
+  "question": "What is AI popular?",
+  "total_time_ms": 82171.22970800119,
+  "timestamp": "2026-04-19T17:26:19.936281",
+  "steps": [
+    {
+      "step_type": "plan",
+      "description": "Decomposed into 4 sub-queries",
+      "duration_ms": 6193.680291999044,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-19T17:25:03.958548"
+    },
+    {
+      "step_type": "search",
+      "description": "Searched: 'current applications of AI in various industries' \u2192 6 results",
+      "duration_ms": 3732.702084000266,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-19T17:25:07.692334"
+    },
+    {
+      "step_type": "search",
+      "description": "Searched: 'public perception of AI technology' \u2192 6 results",
+      "duration_ms": 1149.5862909996504,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-19T17:25:08.843433"
+    },
+    {
+      "step_type": "search",
+      "description": "Searched: 'recent advancements in AI technology' \u2192 6 results",
+      "duration_ms": 1179.9818330000562,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-19T17:25:10.024067"
+    },
+    {
+      "step_type": "search",
+      "description": "Searched: 'statistics on AI adoption rates' \u2192 6 results",
+      "duration_ms": 2966.1497500001133,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-19T17:25:12.990548"
+    },
+    {
+      "step_type": "scrape",
+      "description": "Scraped: https://formative.jmir.org/2026/1/e89123 \u2192 4915 words",
+      "duration_ms": 10867.111167000985,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-19T17:25:23.895877"
+    },
+    {
+      "step_type": "scrape",
+      "description": "Scraped: https://www.visualcapitalist.com/ai-adoption-rates-by-country/ \u2192 2183 words",
+      "duration_ms": 4356.287958999019,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-19T17:25:23.896229"
+    },
+    {
+      "step_type": "scrape",
+      "description": "Scraped: https://www.linkedin.com/pulse/growing-fear-ai-understanding-public-anxiety-age-artificial-jain-viflc \u2192 2131 words",
+      "duration_ms": 2820.900624999922,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-19T17:25:23.896406"
+    },
+    {
+      "step_type": "scrape",
+      "description": "Scraped: https://www.siliconithub.com/blog/top-examples-of-ai-applications/ \u2192 1523 words",
+      "duration_ms": 2609.509874999276,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-19T17:25:23.896543"
+    },
+    {
+      "step_type": "scrape",
+      "description": "Scraped: https://www.sabrepc.com/blog/Deep-Learning-and-AI/5-recent-amazing-ai-advancements \u2192 1353 words",
+      "duration_ms": 4419.912334000401,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-19T17:25:23.896660"
+    },
+    {
+      "step_type": "scrape",
+      "description": "Scraped: https://dessign.net/the-use-of-ai-across-various-industries/ \u2192 967 words",
+      "duration_ms": 8779.930959000922,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-19T17:25:23.896780"
+    },
+    {
+      "step_type": "summarise",
+      "description": "Summarised 6 sources at 'standard' level",
+      "duration_ms": 48483.108207999976,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-19T17:26:12.380214"
+    },
+    {
+      "step_type": "synthesise",
+      "description": "Synthesised answer  type=full_rag  confidence=0.73",
+      "duration_ms": 7547.75866700038,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-19T17:26:19.929259"
+    }
+  ]
+}

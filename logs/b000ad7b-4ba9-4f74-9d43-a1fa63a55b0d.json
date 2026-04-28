@@ -1,0 +1,96 @@
+{
+  "question_id": "b000ad7b-4ba9-4f74-9d43-a1fa63a55b0d",
+  "question": "Why is AI so popular?",
+  "total_time_ms": 25882.454415999746,
+  "timestamp": "2026-04-19T16:55:19.706566",
+  "steps": [
+    {
+      "step_type": "plan",
+      "description": "Decomposed into 4 sub-queries",
+      "duration_ms": 4390.181999999186,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-19T16:54:58.213484"
+    },
+    {
+      "step_type": "search",
+      "description": "Searched: 'technological advancements in AI 2023' \u2192 0 results",
+      "duration_ms": 422.85425000045507,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-19T16:54:58.638190"
+    },
+    {
+      "step_type": "search",
+      "description": "Searched: 'impact of AI on society' \u2192 5 results",
+      "duration_ms": 3984.01662499964,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-19T16:55:02.623336"
+    },
+    {
+      "step_type": "search",
+      "description": "Searched: 'economic benefits of AI adoption' \u2192 0 results",
+      "duration_ms": 208.82650000021385,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-19T16:55:02.833137"
+    },
+    {
+      "step_type": "search",
+      "description": "Searched: 'public perception of AI' \u2192 0 results",
+      "duration_ms": 241.5817920009431,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-19T16:55:03.075834"
+    },
+    {
+      "step_type": "scrape",
+      "description": "Scrape failed: https://www.zhihu.com/question/27047110?sort=created",
+      "duration_ms": 3580.775333000929,
+      "success": false,
+      "error": "",
+      "timestamp": "2026-04-19T16:55:08.263741"
+    },
+    {
+      "step_type": "scrape",
+      "description": "Scrape failed: https://www.zhihu.com/question/425102812",
+      "duration_ms": 3547.6832910007943,
+      "success": false,
+      "error": "",
+      "timestamp": "2026-04-19T16:55:08.264575"
+    },
+    {
+      "step_type": "scrape",
+      "description": "Scrape failed: https://www.zhihu.com/question/12783202254",
+      "duration_ms": 3546.3103330002923,
+      "success": false,
+      "error": "",
+      "timestamp": "2026-04-19T16:55:08.264945"
+    },
+    {
+      "step_type": "scrape",
+      "description": "Scrape failed: https://www.zhihu.com/question/430941704",
+      "duration_ms": 5152.25995900073,
+      "success": false,
+      "error": "",
+      "timestamp": "2026-04-19T16:55:08.265252"
+    },
+    {
+      "step_type": "summarise",
+      "description": "Summarised 0 sources at 'standard' level",
+      "duration_ms": 0.0033329997677356005,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-19T16:55:08.265786"
+    },
+    {
+      "step_type": "synthesise",
+      "description": "Synthesised answer  type=search_only  confidence=0.40",
+      "duration_ms": 11433.312499999374,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-19T16:55:19.699563"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "question_id": "5de99251-71e3-4506-943c-84dadf95dfa5",
+  "question": "What is AI?",
+  "total_time_ms": 8370.237999999517,
+  "timestamp": "2026-04-19T16:57:10.353724",
+  "steps": [
+    {
+      "step_type": "plan",
+      "description": "Decomposed into 4 sub-queries",
+      "duration_ms": 4941.114041999754,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-19T16:57:06.927545"
+    },
+    {
+      "step_type": "search",
+      "description": "Searched: 'definition of artificial intelligence' \u2192 0 results",
+      "duration_ms": 408.9661670004716,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-19T16:57:07.337680"
+    },
+    {
+      "step_type": "search",
+      "description": "Searched: 'types of artificial intelligence' \u2192 0 results",
+      "duration_ms": 206.04483299939602,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-19T16:57:07.545161"
+    },
+    {
+      "step_type": "search",
+      "description": "Searched: 'applications of artificial intelligence' \u2192 0 results",
+      "duration_ms": 226.49708300014026,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-19T16:57:07.772434"
+    },
+    {
+      "step_type": "search",
+      "description": "Searched: 'ethical considerations in artificial intelligence' \u2192 0 results",
+      "duration_ms": 315.54104200040456,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-19T16:57:08.088729"
+    },
+    {
+      "step_type": "summarise",
+      "description": "Summarised 0 sources at 'detailed' level",
+      "duration_ms": 0.00654199902783148,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-19T16:57:10.350121"
+    },
+    {
+      "step_type": "synthesise",
+      "description": "Synthesised answer  type=search_only  confidence=0.00",
+      "duration_ms": 0.004707999323727563,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-19T16:57:10.350959"
+    }
+  ]
+}

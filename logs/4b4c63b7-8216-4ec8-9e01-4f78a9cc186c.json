@@ -1,0 +1,64 @@
+{
+  "question_id": "4b4c63b7-8216-4ec8-9e01-4f78a9cc186c",
+  "question": "Is an going to overtake the jobs?",
+  "total_time_ms": 9450.212540999928,
+  "timestamp": "2026-04-19T17:00:47.985536",
+  "steps": [
+    {
+      "step_type": "plan",
+      "description": "Decomposed into 4 sub-queries",
+      "duration_ms": 7038.531250000233,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-19T17:00:45.573867"
+    },
+    {
+      "step_type": "search",
+      "description": "Searched: 'current impact of AI on job market' \u2192 0 results",
+      "duration_ms": 0.4577920008159708,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-19T17:00:45.574659"
+    },
+    {
+      "step_type": "search",
+      "description": "Searched: 'industries most affected by automation' \u2192 0 results",
+      "duration_ms": 0.24641700110805687,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-19T17:00:45.575263"
+    },
+    {
+      "step_type": "search",
+      "description": "Searched: 'expert predictions on AI and employment' \u2192 0 results",
+      "duration_ms": 0.2043330005108146,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-19T17:00:45.575697"
+    },
+    {
+      "step_type": "search",
+      "description": "Searched: 'successful job transitions in AI era' \u2192 0 results",
+      "duration_ms": 0.1818330001697177,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-19T17:00:45.576062"
+    },
+    {
+      "step_type": "summarise",
+      "description": "Summarised 0 sources at 'standard' level",
+      "duration_ms": 0.012915999832330272,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-19T17:00:47.981641"
+    },
+    {
+      "step_type": "synthesise",
+      "description": "Synthesised answer  type=search_only  confidence=0.00",
+      "duration_ms": 0.005166999471839517,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-19T17:00:47.982476"
+    }
+  ]
+}

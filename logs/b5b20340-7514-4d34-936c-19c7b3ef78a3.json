@@ -1,0 +1,64 @@
+{
+  "question_id": "b5b20340-7514-4d34-936c-19c7b3ef78a3",
+  "question": "why is Ai so popular ",
+  "total_time_ms": 8834.025416001168,
+  "timestamp": "2026-04-19T16:56:39.413179",
+  "steps": [
+    {
+      "step_type": "plan",
+      "description": "Decomposed into 4 sub-queries",
+      "duration_ms": 4934.209541999735,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-19T16:56:35.521764"
+    },
+    {
+      "step_type": "search",
+      "description": "Searched: 'technological advancements in AI 2023' \u2192 0 results",
+      "duration_ms": 205.68058299977565,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-19T16:56:35.728578"
+    },
+    {
+      "step_type": "search",
+      "description": "Searched: 'impact of AI on industries' \u2192 0 results",
+      "duration_ms": 547.066499999346,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-19T16:56:36.276407"
+    },
+    {
+      "step_type": "search",
+      "description": "Searched: 'public perception of AI' \u2192 0 results",
+      "duration_ms": 165.24212500007707,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-19T16:56:36.442569"
+    },
+    {
+      "step_type": "search",
+      "description": "Searched: 'AI investment trends 2023' \u2192 0 results",
+      "duration_ms": 649.0939579998667,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-19T16:56:37.092549"
+    },
+    {
+      "step_type": "summarise",
+      "description": "Summarised 0 sources at 'detailed' level",
+      "duration_ms": 0.00837500010675285,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-19T16:56:39.407269"
+    },
+    {
+      "step_type": "synthesise",
+      "description": "Synthesised answer  type=search_only  confidence=0.00",
+      "duration_ms": 0.0063329989643534645,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-19T16:56:39.408091"
+    }
+  ]
+}

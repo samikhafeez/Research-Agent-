@@ -1,0 +1,96 @@
+{
+  "question_id": "01d80d01-8cee-4601-82c2-6441b0c94fbd",
+  "question": "What are the main causes and solutions to urban heat islands?",
+  "total_time_ms": 23285.61875000014,
+  "timestamp": "2026-04-19T16:42:01.077958",
+  "steps": [
+    {
+      "step_type": "plan",
+      "description": "Decomposed into 4 sub-queries",
+      "duration_ms": 5368.956624999555,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-19T16:41:43.160934"
+    },
+    {
+      "step_type": "search",
+      "description": "Searched: 'causes of urban heat islands' \u2192 0 results",
+      "duration_ms": 1640.0019590000738,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-19T16:41:44.802782"
+    },
+    {
+      "step_type": "search",
+      "description": "Searched: 'solutions to urban heat islands' \u2192 0 results",
+      "duration_ms": 695.6381250001868,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-19T16:41:45.499472"
+    },
+    {
+      "step_type": "search",
+      "description": "Searched: 'impact of urban heat islands on health and environment' \u2192 0 results",
+      "duration_ms": 248.57449999944947,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-19T16:41:45.748793"
+    },
+    {
+      "step_type": "search",
+      "description": "Searched: 'case studies of urban heat island mitigation' \u2192 6 results",
+      "duration_ms": 795.9155410007952,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-19T16:41:46.545526"
+    },
+    {
+      "step_type": "scrape",
+      "description": "Scraped: https://www.sciencedirect.com/science/article/pii/S2210670721008301 \u2192 47 words",
+      "duration_ms": 2034.386291001283,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-19T16:41:51.583526"
+    },
+    {
+      "step_type": "scrape",
+      "description": "Scrape failed: https://eurekamag.com/research/100/031/100031844.php",
+      "duration_ms": 2663.9431660005357,
+      "success": false,
+      "error": "",
+      "timestamp": "2026-04-19T16:41:51.583964"
+    },
+    {
+      "step_type": "scrape",
+      "description": "Scrape failed: https://anantamias.com/urban-heat-island/",
+      "duration_ms": 5005.527332999918,
+      "success": false,
+      "error": "",
+      "timestamp": "2026-04-19T16:41:51.584115"
+    },
+    {
+      "step_type": "scrape",
+      "description": "Scrape failed: https://pmc.ncbi.nlm.nih.gov/articles/PMC8293213/",
+      "duration_ms": 3694.976458000383,
+      "success": false,
+      "error": "",
+      "timestamp": "2026-04-19T16:41:51.584244"
+    },
+    {
+      "step_type": "summarise",
+      "description": "Summarised 1 sources at 'standard' level",
+      "duration_ms": 2934.3858749998617,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-19T16:41:54.518809"
+    },
+    {
+      "step_type": "synthesise",
+      "description": "Synthesised answer  type=full_rag  confidence=1.00",
+      "duration_ms": 6552.843457999188,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-19T16:42:01.072162"
+    }
+  ]
+}

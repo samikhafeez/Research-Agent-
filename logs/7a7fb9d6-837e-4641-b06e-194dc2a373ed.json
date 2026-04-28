@@ -1,0 +1,64 @@
+{
+  "question_id": "7a7fb9d6-837e-4641-b06e-194dc2a373ed",
+  "question": "why is Ai flourishing?",
+  "total_time_ms": 10294.369708999511,
+  "timestamp": "2026-04-19T17:00:19.854615",
+  "steps": [
+    {
+      "step_type": "plan",
+      "description": "Decomposed into 4 sub-queries",
+      "duration_ms": 7631.09274999988,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-19T17:00:17.191380"
+    },
+    {
+      "step_type": "search",
+      "description": "Searched: 'technological advancements in AI 2023' \u2192 0 results",
+      "duration_ms": 1.0838750004040776,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-19T17:00:17.193513"
+    },
+    {
+      "step_type": "search",
+      "description": "Searched: 'economic impact of AI adoption' \u2192 0 results",
+      "duration_ms": 0.36304100103734527,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-19T17:00:17.194346"
+    },
+    {
+      "step_type": "search",
+      "description": "Searched: 'societal factors influencing AI growth' \u2192 0 results",
+      "duration_ms": 0.28529200062621385,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-19T17:00:17.195055"
+    },
+    {
+      "step_type": "search",
+      "description": "Searched: 'AI investment trends 2023' \u2192 0 results",
+      "duration_ms": 0.37716699989687186,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-19T17:00:17.195753"
+    },
+    {
+      "step_type": "summarise",
+      "description": "Summarised 0 sources at 'standard' level",
+      "duration_ms": 0.007499998901039362,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-19T17:00:19.850526"
+    },
+    {
+      "step_type": "synthesise",
+      "description": "Synthesised answer  type=search_only  confidence=0.00",
+      "duration_ms": 0.004709001586888917,
+      "success": true,
+      "error": "",
+      "timestamp": "2026-04-19T17:00:19.851599"
+    }
+  ]
+}
