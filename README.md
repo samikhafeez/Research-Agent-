@@ -295,8 +295,7 @@ history = orch.get_session_history(session_id)
 
 ## Screenshots
 
-> _Add screenshots of the Streamlit research interface, step trace panel, and source citation cards here._
-
+![alt text](image.png)
 ---
 
 ## Author
